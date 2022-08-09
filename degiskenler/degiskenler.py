@@ -12,11 +12,11 @@ print(x)  # python
 
 #Çoklu Değişken Değerleri Tanımlama
 
-x, y, z = "Elma", "Armut", "Çilek"
+x, y, z = "Python", "Biyoinformatik", "Python ile Biyoinformatik"
 
-print(x) #Elma 
-print(y) #Armut 
-print(z) #Çilek
+print(x) #Python 
+print(y) #Biyoinformatik
+print(z) #Python ile Biyoinformatik
 
 
 # Kullanıcıdan Değişkene Atanacak Değer Alma
