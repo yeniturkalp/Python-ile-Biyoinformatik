@@ -37,7 +37,7 @@ while i < 10:
     print(i)
     i += 1
 else:
-    print("i sayısı haddini aşmıştır :D") # döngü artık doğru olmadığında else bloğu ile bildiri mesajı verilir
+    print("i sayısı haddini aşmıştır !!!") # döngü artık doğru olmadığında else bloğu ile bildiri mesajı verilir
 
 
 
